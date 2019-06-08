@@ -5,7 +5,8 @@
 
 </audio>
 
-
+plot> ## Simple quantiles/ECDF, see ecdf() {library(stats)} for a better one:
+plot> plot(x <- sort(rnorm(47)), type = "s", main = "plot(x, type = \"s\")")
 
 ##关于作者
 
