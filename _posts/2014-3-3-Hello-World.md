@@ -102,6 +102,17 @@ Bob-->Alice: I am good thanks!
 ## 编辑器相关
 ### 设置
 右侧系统菜单（快捷键`Ctrl + M`）的`设置`中，提供了界面字体、字号、自定义CSS、vim/emacs 键盘模式等高级选项。
+### 流程图
+```flow
+st=>start: Start
+e=>end
+op=>operation: My Operation
+cond=>condition: Yes or No?
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
 
 ### 快捷键
 
