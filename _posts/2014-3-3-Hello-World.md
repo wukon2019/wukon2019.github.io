@@ -1,5 +1,7 @@
 ![mahua](mahua-logo.jpg)
 <audio id="audio" controls="" preload="none">
+    
+    [TOC]
 wx.config({
     // 配置信息
 });
