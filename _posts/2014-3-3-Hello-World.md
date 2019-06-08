@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 公众号：医美圈面膜
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
